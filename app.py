@@ -179,7 +179,7 @@ def profile():
         try:
             delete_all_user_expense(conn, session["uid"])
             delete_user_by_id(conn, session["uid"])
-            flash("Account deleted! Sorry to see you go :(", category="alert-success")
+            flash("Account deleted -- Sorry to see you go :(", category="alert-success")
             return redirect(url_for("login")), 301
         except ValueError:
             return "", 400
