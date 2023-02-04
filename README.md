@@ -19,9 +19,11 @@ The expense tracking app is an application for money conscious individuals of al
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/Shiole/acit2911_expense_tracker_app`
+1. Clone the repo: `git clone https://github.com/Summry/expense-tracker-app`
 
-2. Install Python packages in your virtual environment: `pip install -r requirements.txt`
+2. Setup your virtual environment.
+
+3. Install Python packages in your virtual environment: `pip install -r requirements.txt`
 
 
 ## Usage
@@ -64,14 +66,14 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Contact
 
-Kitty Low -[kitty98low@gmail.com](mailto:kitty98low@gmail.com)
+Kitty Low - [kitty98low@gmail.com](mailto:kitty98low@gmail.com)
 
-Wesley Chu -[wesleychu@telus.net](mailto:wesleychu@telus.net)
+Wesley Chu - [wesleychu@telus.net](mailto:wesleychu@telus.net)
 
-Aleksandar Zivkovic -[azivkovic@my.bcit.ca](mailto:azivkovic@my.bcit.ca)
+Aleksandar Zivkovic - [azivkovic@my.bcit.ca](mailto:azivkovic@my.bcit.ca)
 
-Evann Li -[eli85@my.bcit.ca](mailto:eli85@my.bcit.ca)
+Evann Li - [eli85@my.bcit.ca](mailto:eli85@my.bcit.ca)
 
-Nazira Fakhrurradi -[nfakhrurradi@my.bcit.ca](mailto:nfakhrurradi@my.bcit.ca)
+Nazira Fakhrurradi - [nfakhrurradi@my.bcit.ca](mailto:nfakhrurradi@my.bcit.ca)
 
-Project Link:<https://github.com/Shiole/acit2911_expense_tracker_app>
+Project Link: <https://github.com/Shiole/acit2911_expense_tracker_app>
